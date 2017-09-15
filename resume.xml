@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resume>
+  <section title="Education">
+
+    <entry title="Ph.D. Mechanical Engineering">
+      <organization>Brigham Young University</organization>
+      <location>Provo, Utah</location>
+      <date>April 2019</date>
+      <list>
+        <item>National Defense Science and Engineering Graduate (NDSEG) Fellow</item>
+        <item>Emphasis inmanned air vehicles, autonomous systems, robotics</item>
+        <item>Coursework: Deep Learning, Linear System Theory, Nonlinear System Theory, Robust Control, Robotic Vision, Dynamics of Mechanical Systems, Math of Signals and Systems, Stochastic Processes, Compliant Mechanisms</item>
+      </list>
+    </entry>
+
+    <entry title="B.S. Mechanical Engineering">
+      <organization>Brigham Young University</organization>
+      <location>Provo, Utah</location>
+      <date>April 2014</date>
+      <list>
+        <item>Summa cum laude (4.00 GPA)</item>
+        <item>Minor in Computer Science</item>
+        <item>Elective Courses: Flight Dynamics and Control, Mechatronics, Design of Control Systems, Optimization Techniques, Neuromechanics of Movement</item>
+      </list>
+    </entry>
+
+  </section>
+
+  <section title="Work Experience">
+
+    <entry title="Research Assistant">
+      <organization>BYU MAGICC Lab</organization>
+      <location>Provo, Utah</location>
+      <start_date>November 2012</start_date>
+      <end_date>Present</end_date>
+      <list>
+        <item>Research guidance and control of small UAVs in environments with degraded GPS</item>
+        <item>Co-developed the ROSflight autopilot firmware and ROS stack</item>
+      </list>
+    </entry>
+
+    <entry title="GNC Engineer">
+      <organization>Kitty Hawk Corporation</organization>
+      <location>Mountain View, California</location>
+      <start_date>January 2017</start_date>
+      <end_date>April 2017</end_date>
+      <list>
+        <item>Functioned as lead estimation engineer for a manned multirotor aircraft</item>
+        <item>Contributed to system-level software design and integration decisions</item>
+      </list>
+    </entry>
+
+    <entry title="Summer Researcher">
+      <organization>Air Force Research Laboratory</organization>
+      <location>Fort Walton Beach, Florida</location>
+      <date>Summers 2014, 2015, 2016</date>
+      <list>
+        <item>Implemented multirotor estimator and controller for Pixhawk autopilot (PX4 flight stack)</item>
+        <item>Developed hardware and software capabilities for collaborative multirotor research test platform</item>
+      </list>
+    </entry>
+
+    <entry title="Intern">
+      <organization>Daimler Trucks North America</organization>
+      <location>Portland, Oregon</location>
+      <start_date>May 2012</start_date>
+      <end_date>August 2012</end_date>
+      <list>
+        <item>Developed methodology for dynamic and kinematic modeling and analysis of heavy truck hood mounting system</item>
+        <item>Helped integrate new software and establish expanded engineering analysis capabilities</item>
+      </list>
+    </entry>
+
+    <entry title="Research Assistant">
+      <organization>BYU Microstructure Research Lab</organization>
+      <location>Provo, Utah</location>
+      <start_date>October 2010</start_date>
+      <end_date>April 2012</end_date>
+      <list>
+        <item>Researched continuum mechanical models of dislocation stress fields near a free surface</item>
+        <item>Coauthor on paper published in Journal of Microscopy</item>
+      </list>
+    </entry>
+
+    <entry title="Undergraduate Intern">
+      <organization>Los Alamos National Laboratory</organization>
+      <location>Los Alamos, New Mexico</location>
+      <start_date>May 2011</start_date>
+      <end_date>August 2011</end_date>
+      <list>
+        <item>Produced original work on mathematical models for effects of dislocations in solids</item>
+      </list>
+    </entry>
+
+  </section>
+
+  <section title="Skills">
+    <list>
+      <item>ROS</item>
+      <item>C/C++, Python, Java</item>
+      <item>MATLAB, Simulink</item>
+      <item>Linux</item>
+      <item>Pixhawk/PX4</item>
+      <item>OpenCV</item>
+      <item>PCB Design (CadSoft EAGLE)</item>
+      <item>PIC microcontroller</item>
+      <item>LMS Virtual.Lab Motion</item>
+      <item>CATIA, SolidWorks, NX, Inventor</item>
+      <item>Excel</item>
+      <item>LaTeX</item>
+      <item>HTML/CSS/PHP/JavaScript</item>
+    </list>
+  </section>
+
+  <section title="Awards and Certifications">
+    <list>
+      <item>National Defense Engineering and Science Graduate Fellowship</item>
+      <item>Ira A. Fulton College PhD Fellowship</item>
+      <item>Department of Mechanical Engineering Research Fellowship</item>
+      <item>Tau Beta Pi Stabile Scholarship</item>
+      <item>Heritage Academic Scholarship</item>
+      <item>National Merit Scholarship</item>
+      <item>Kruger Scholarship</item>
+      <item>Eagle Scout with Silver Palm</item>
+      <item>Piano Syllabus Post Level X with Honors</item>
+      <item>PADI Advanced Open Water Diver</item>
+    </list>
+  </section>
+
+</resume>
