@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <resume>
+  <name>Daniel P. Koch</name>
+  <address>1159 S 1410 E, Provo, Utah 84606</address>
+  <email>daniel.p.koch@gmail.com</email>
+  <phone>(503) 320-0227</phone>
+
   <section title="Education">
 
     <entry title="Ph.D. Mechanical Engineering">
